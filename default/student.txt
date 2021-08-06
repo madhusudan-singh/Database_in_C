@@ -1,0 +1,4 @@
+id,int,name,string,marks,int;
+
+15,Rahul,10
+11,Rohit,20

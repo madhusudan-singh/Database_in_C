@@ -1,0 +1,9 @@
+name,string,id,int,marks,int;
+Madhusudan,66,100
+Rathang,8,1
+Ganesh,10,99
+Ganesh,9,100
+Arjun,10,100
+Apple,19,80
+Aditya,10,10
+Yuumi,1,20
