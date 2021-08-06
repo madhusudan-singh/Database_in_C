@@ -17,6 +17,6 @@ This project contains a basic directory structure based Database in C that can p
 
 <h3>DQL</h3>
 
-1. display table
+1. display table<ul>i) select * from table</ul><ul>ii) select col1,col2,... from table</ul><ul>iii) select * from table where ...</ul>
 2. show tables
 3. show databases
