@@ -92,6 +92,7 @@ int createDB()
 	    }
 		fputc('\n',fp1);
 		fclose(fp1);
+		system("cls");
 		printf("Database Successfully Created\n\n");
 		return 0;}
 	}
